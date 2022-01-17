@@ -1,0 +1,70 @@
+{
+    "now_playing": {
+        "$": {
+            "playing": "1",
+            "timestamp": "2021-12-13T19:33:43Z"
+        },
+        "song": [
+            {
+                "$": {
+                    "timestamp": "2021-12-13T19:33:43Z"
+                },
+                "title": [
+                    "The Decline"
+                ],
+                "artist": [
+                    "NOFX"
+                ],
+                "album": [
+                    "The Decline - Single"
+                ],
+                "genre": [
+                    "Alternative"
+                ],
+                "kind": [
+                    "mp3"
+                ],
+                "track": [
+                    "1"
+                ],
+                "year": [
+                    "1999"
+                ],
+                "comments": [
+                    ""
+                ],
+                "time": [
+                    "1099"
+                ],
+                "bitrate": [
+                    "320"
+                ],
+                "disc": [
+                    "65531"
+                ],
+                "playCount": [
+                    ""
+                ],
+                "compilation": [
+                    "No"
+                ],
+                "composer": [
+                    ""
+                ],
+                "grouping": [
+                    ""
+                ],
+                "urlSource": [
+                    ""
+                ],
+                "file": [
+                    "C:\\Users\\Basemental Studio\\Music\\AEM 2005\\NOFX - The Decline.mp3"
+                ],
+                "images": [
+                    "http://basementalradio.com/imajes/NOFX%20-%20The%20Decline.jpg",
+                    "http://basementalradio.com/imajes/basemental.jpg"
+                ]
+            }
+        ]
+    }
+}

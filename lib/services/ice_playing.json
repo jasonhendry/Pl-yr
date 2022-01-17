@@ -1,0 +1,33 @@
+{
+    "icestats": {
+        "admin": "icemaster@localhost",
+        "host": "oblivion.couchpotatofries.org",
+        "location": "Earth",
+        "server_id": "Icecast 2.4.4",
+        "server_start": "Wed, 15 Dec 2021 10:49:50 +1100",
+        "server_start_iso8601": "2021-12-15T10:49:50+1100",
+        "source": {
+            "artist": "Gordon Edge, Tom Staar",
+            "audio_bitrate": 64000,
+            "audio_channels": 2,
+            "audio_info": "samplerate=44100;channels=2;quality=3%2e00",
+            "audio_samplerate": 44100,
+            "channels": 2,
+            "genre": "Example genre",
+            "ice-bitrate": 64,
+            "listener_peak": 1,
+            "listeners": 1,
+            "listenurl": "http://oblivion.couchpotatofries.org:8000/source",
+            "quality": 3.00,
+            "samplerate": 44100,
+            "server_description": "A short description of your stream",
+            "server_name": "Example stream name",
+            "server_type": "application/ogg",
+            "stream_start": "Sun, 19 Dec 2021 20:50:24 +1100",
+            "stream_start_iso8601": "2021-12-19T20:50:24+1100",
+            "subtype": "Vorbis",
+            "title": "Itsa Trumpet Thing (Extended Mix)",
+            "dummy": null
+        }
+    }
+}
