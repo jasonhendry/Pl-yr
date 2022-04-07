@@ -109,10 +109,10 @@ class PageManager {
 
   void _listenToChangesInChannel() {
     _channel.listen((update) {
-      print(update.icestats.source.images[0]);
-      currentSongTitleNotifier.value = update.icestats.source.title ?? '';
-      currentArtistNotifier.value = update.icestats.source.artist ?? '';
-      currentBackgroundNotifier.value = update.icestats.source.images[0];
+      print(update.nowplaying.current.image);
+      currentSongTitleNotifier.value = update.nowplaying.current.title;
+      currentArtistNotifier.value = update.nowplaying.current.artist;
+      currentBackgroundNotifier.value = update.nowplaying.current.image;
 
       /*      if (update.icestats.source.title !=
           _audioHandler.mediaItem.value?.title) {
